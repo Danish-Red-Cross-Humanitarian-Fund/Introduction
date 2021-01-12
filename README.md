@@ -10,15 +10,10 @@ B31BD7796BC113013A2BF6C3953305FD
 # Examples of DRC's technology driven humanitarian programs
 The Danish Red Cross has already engaged in a number of blockchain related programs that seek to stimulate system change to traditional humanitarian assistance modalities. The following two examples:
 
-Community Inclusion Currencies:
-
- <table> <tr> <th>Community Inclusion Currencies</th> <th>Click here for video: https://youtu.be/bHM1DRHSUPw
-
+<table> <tr> <th>Community Inclusion Currencies</th> <th>Click here for video: https://youtu.be/bHM1DRHSUPw
 <tab>Click link for information site: http://cichub.org
-  
- <table> <tr> <th>Volcano Catastrophe Bond</th> <th>
-
+ 
+<table> <tr> <th>Volcano Catastrophe Bond</th> <th>
 Click here for video: https://youtu.be/hWUjRM4BS78
-
 Click link for information site: https://catbond.org
   
