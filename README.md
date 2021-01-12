@@ -11,9 +11,8 @@ B31BD7796BC113013A2BF6C3953305FD
 The Danish Red Cross has already engaged in a number of blockchain related programs that seek to stimulate system change to traditional humanitarian assistance modalities. The following two examples:
 
 <table> <tr> <th>Community Inclusion Currencies</th> <th>Click here for video: https://youtu.be/bHM1DRHSUPw
-<th>Click link for information site: http://cichub.org
+<th>Click link for information site: http://cichub.org </th>
  
 
 <table> <tr> <th>Volcano Catastrophe Bond</th> <th> Click here for video: https://youtu.be/hWUjRM4BS78
-<th> Click link for information site: https://catbond.org
- 
+<th> Click link for information site: https://catbond.org </th>
