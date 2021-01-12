@@ -14,4 +14,6 @@ The Danish Red Cross has already engaged in a number of blockchain related progr
 <th>Click link for information site: http://cichub.org
  
 
-  
+<table> <tr> <th>Volcano Catastrophe Bond</th> <th> Click here for video: https://youtu.be/hWUjRM4BS78
+<th> Click link for information site: https://catbond.org
+ 
