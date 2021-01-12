@@ -12,11 +12,11 @@ The Danish Red Cross has already engaged in a number of blockchain related progr
 
 Community Inclusion Currencies:
 
-<tab> Click here for video: https://youtu.be/bHM1DRHSUPw
+ <table> <tr> <th>Name</th> <th>Click here for video: https://youtu.be/bHM1DRHSUPw
 
-<tab> Click link for information site: http://cichub.org
+<tab>Click link for information site: http://cichub.org
   
-# Volcano Catastrophe Bond:
+Volcano Catastrophe Bond:
 
 Click here for video: https://youtu.be/hWUjRM4BS78
 
